@@ -42,4 +42,4 @@ Contributions are welcome! If you find any issues or have suggestions to improve
 ## Acknowledgments
 
 - [Flutter](https://flutter.dev/) - Flutter framework for building the app
-- [Math_Expressions](https://pub.dev/packages/math_expressions) - Dart package used for mathematical expressions evaluation
+- [Math_Expressions](https://pub.dev/packages/math_expressions) - Dart package used for mathematical expressions evaluation.
