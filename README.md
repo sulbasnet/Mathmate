@@ -18,7 +18,7 @@ To run this app locally on your machine, follow these steps:
 2. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sulbasnet/mathmate.git
+   git clone https://github.com/sulbasnet/Mathmate.git
    ```
 
 3. **Navigate to the project directory:**
